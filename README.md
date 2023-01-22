@@ -26,7 +26,7 @@ When Im not working for others, I enjoy planning startups. Over the years Ive ha
 
 {% code overflow="wrap" %}
 ```
-Apart from working, I also love to drive, play video games, and watch TV. Driving, especially with friends, is a great way to pass the time, and a great way to calm down after a long day. Im currently driving a 2006 Pontiac Vibe, running strong with 215,000 miles. Playing video games has helped me to practice communication, decision-making skills, and hand-eye coordination skills. My current favorite game is Valorant. Like most people, Im a fan of the easy-to-watch comedy, The Office. The closest thing to sports I participate in is Axe throwing. Temporarily, I even worked as an ax throwing coach.
+Apart from working, I also love to drive, play video games, and watch TV. Driving, especially with friends, is a great way to pass the time, and a great way to calm down after a long day. Im currently driving a 2006 Pontiac Vibe, running strong with 215,000 miles. Playing video games has helped me to practice communication, decision-making skills, and hand-eye coordination skills. My current favorite game is Honkai Impact & Genshin Impact. Like most people, Im a fan of the easy-to-watch comedy, The Office. The closest thing to sports I participate in is Axe throwing. Temporarily, I even worked as an ax throwing coach.
 ```
 {% endcode %}
 
@@ -46,6 +46,16 @@ Some of my key achievements are, creating a coding language wrapper installed ov
 [Thunderz](https://app.gitbook.com/o/6fJ60JfYQyN0oE0oCR15/s/rKPmXbUVjEtlfqtMAdps/)
 {% endcontent-ref %}
 
+### More About Me&#x20;
+
+**Name** | Rin Schariacs.
+
+**Age** | 21y.
+
+**Hobby** | Swimmin, Vacation, Listen Music, Anime, Code & Games.
+
+**Games** | Honkai Impact 3, Genshin impact & GTAV.
+
 ### Social Media
 
-[Discord](https://dsc.bio/omurice) | [Twitter](https://twitter.com)&#x20;
+[Discord](https://dsc.bio/omurice) | [Twitter](https://twitter.com) | [Github](https://github.com/rinxyzz)
