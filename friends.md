@@ -1,3 +1,7 @@
+---
+description: Rin Friends List
+---
+
 # Friends
 
 ### My Friends List On [Discord](https://discord.com)
