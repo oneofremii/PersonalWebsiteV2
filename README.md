@@ -52,7 +52,7 @@ Some of my key achievements are, creating a coding language wrapper installed ov
 
 **Age** | 21y.
 
-**Hobby** | Swimmin, Vacation, Listen Music, Anime, Code & Games.
+**Hobby** | Swimming, Vacation, Listen Music, Anime, Code & Games.
 
 **Games** | Honkai Impact 3, Genshin impact & GTAV.
 
