@@ -31,6 +31,7 @@ description: Rin Friends List
 * VietdsyRC#6501
 * kirbs#2003
 * SAKIL FX | ON BREAK \[Left]#8820
+* Christien Barker #2262
 
 {% hint style="info" %}
 Want your name to appear here as Rin's friend? Send a friend request to Rin on Discord, if accepted, your name will appear here along with the tag.
