@@ -33,6 +33,7 @@ description: Rin Friends List
 * SAKIL FX | ON BREAK \[Left]#8820
 * Christien Barker #2262
 * Zoe Olson#0923
+* 𝐈𝐓𝐒\_𝐀𝐘𝐌𝐀𝐍 #9999
 
 {% hint style="info" %}
 Want your name to appear here as Rin's friend? Send a friend request to Rin on Discord, if accepted, your name will appear here along with the tag.
