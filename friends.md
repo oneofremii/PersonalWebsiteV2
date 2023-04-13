@@ -38,5 +38,6 @@ description: Rin Friends List
 {% hint style="info" %}
 Want your name to appear here as Rin's friend? please open a pull request in https://github.com/rinxyzz/PersonalWebsiteV2/blob/main/friends.md and enter your name along with the tag as above, don't try to change the list above, if your pull request is approved, your name will appear at the top.
 
-keep in mind, enter your name along with the tag under the name of another friend, not above!
+keep in mind, enter your name along with the tag under the name of another friend, not above!.
+You can also make a request with a pull request to change your name if your name is already on the list.
 {% endhint %}
