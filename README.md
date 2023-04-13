@@ -26,7 +26,7 @@ When Im not working for others, I enjoy planning startups. Over the years Ive ha
 
 {% code overflow="wrap" %}
 ```
-Apart from working, I also love to drive, play video games, and watch TV. Driving, especially with friends, is a great way to pass the time, and a great way to calm down after a long day. Im currently driving a 2006 Pontiac Vibe, running strong with 215,000 miles. Playing video games has helped me to practice communication, decision-making skills, and hand-eye coordination skills. My current favorite game is Valorant. Like most people, Im a fan of the easy-to-watch comedy, The Office. The closest thing to sports I participate in is Axe throwing. Temporarily, I even worked as an designer.
+Apart from working, I also love to drive, play video games, and watch TV. Driving, especially with friends, is a great way to pass the time, and a great way to calm down after a long day. Im currently driving a 2006 Pontiac Vibe, running strong with 215,000 miles. Playing video games has helped me to practice communication, decision-making skills, and hand-eye coordination skills. My current favorite game is Valorant. Like most people, Im a fan of the easy-to-watch comedy, The Office. The closest thing to sports I participate in is swimmer and badminton. Temporarily, I even worked as an swimming and badminton coach.
 ```
 {% endcode %}
 
