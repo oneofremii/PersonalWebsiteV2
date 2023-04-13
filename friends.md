@@ -36,5 +36,7 @@ description: Rin Friends List
 * 𝐈𝐓𝐒\_𝐀𝐘𝐌𝐀𝐍 #9999
 
 {% hint style="info" %}
-Want your name to appear here as Rin's friend? Send a friend request to Rin on Discord, if accepted, your name will appear here along with the tag.
+Want your name to appear here as Rin's friend? please open a pull request in https://github.com/rinxyzz/PersonalWebsiteV2/blob/main/friends.md and enter your name along with the tag as above, don't try to change the list above, if your pull request is approved, your name will appear at the top.
+
+keep in mind, enter your name along with the tag under the name of another friend, not above!
 {% endhint %}
