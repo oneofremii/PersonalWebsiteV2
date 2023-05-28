@@ -30,10 +30,11 @@ description: Rin Friends List
 * Iroh#2563
 * VietdsyRC#6501
 * kirbs#2003
-* SAKIL FX | ON BREAK \[Left]#8820
+* Sakil_fx#9008
 * Christien Barker #2262
 * Zoe Olson#0923
 * 𝐈𝐓𝐒\_𝐀𝐘𝐌𝐀𝐍 #9999
+* vizual.s#0001
 
 {% hint style="info" %}
 Want your name to appear here as Rin's friend? please open a pull request in https://github.com/rinxyzz/PersonalWebsiteV2/blob/main/friends.md and enter your name along with the tag as above, don't try to change the list above, if your pull request is approved, your name will appear at the top.
