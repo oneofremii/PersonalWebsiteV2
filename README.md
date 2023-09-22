@@ -1,14 +1,22 @@
 ---
-description: Learn More About Rin
+description: Learn More Mika
+cover: .gitbook/assets/banner.png
+coverY: 0
 ---
 
-# Home | リン スチャリアク
+# Home
 
-**Hey! i am Rin :)**
+**Hey! i am Mikaaa :)**
 
 {% code overflow="wrap" %}
 ```
 an intermediate software developer with a knack for web designs. I also enjoy marketing, cooking, teaching, and managing proects. I have been developing websites, discord bots, and developing for 3+ years.
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+I'am from Japan, Now I am currently college at University of Miami.
 ```
 {% endcode %}
 
@@ -26,7 +34,7 @@ When Im not working for others, I enjoy planning startups. Over the years Ive ha
 
 {% code overflow="wrap" %}
 ```
-Apart from working, I also love to drive, play video games, and watch TV. Driving, especially with friends, is a great way to pass the time, and a great way to calm down after a long day. Im currently driving a 2006 Pontiac Vibe, running strong with 215,000 miles. Playing video games has helped me to practice communication, decision-making skills, and hand-eye coordination skills. My current favorite game is Valorant. Like most people, Im a fan of the easy-to-watch comedy, The Office. The closest thing to sports I participate in is swimmer and badminton. Temporarily, I even worked as an swimming and badminton coach.
+Apart from working, I also love to drive, play video games, and watch TV. Driving, especially with friends, is a great way to pass the time, and a great way to calm down after a long day. Im currently driving a 2006 Pontiac Vibe, running strong with 215,000 miles. Playing video games has helped me to practice communication, decision-making skills, and hand-eye coordination skills. My current favorite game is Genshin Impact. Like most people, Im a fan of the easy-to-watch comedy, The Office. The closest thing to sports I participate in is swimmer and badminton. Temporarily, I even worked as an swimming and badminton coach.
 ```
 {% endcode %}
 
@@ -36,16 +44,16 @@ Some of my key achievements are, creating a coding language wrapper installed ov
 ```
 {% endcode %}
 
-### My Discord BOT Build Using [VSCODE](https://vscode.dev) & [PebbleHost](https://pebblehost.com/)
+### My Discord BOT Build Using [VSCODE](https://vscode.dev) & [bisecthostin](https://www.bisecthosting.com/)
 
-[![](https://discordbotlist.com/api/v1/bots/1063080384641904672/widget)](https://discordbotlist.com/bots/1063080384641904672)
+[![](https://discordbotlist.com/api/v1/bots/1103427996532097054/widget)](https://discordbotlist.com/bots/hyperion-0651)
 
-[![Thunderz's Widget Failed to Load](https://discords.com/bots/api/bot/1063080384641904672/widget)](https://discords.com/bots/bots/1063080384641904672)
+[![Bots for Discord](https://discords.com/bots/api/bot/1103427996532097054/widget)](https://discords.com/bots/bots/1103427996532097054)
 
-{% content-ref url="https://app.gitbook.com/o/6fJ60JfYQyN0oE0oCR15/s/rKPmXbUVjEtlfqtMAdps/" %}
-[Thunderz](https://app.gitbook.com/o/6fJ60JfYQyN0oE0oCR15/s/rKPmXbUVjEtlfqtMAdps/)
+{% content-ref url="http://127.0.0.1:5000/o/6fJ60JfYQyN0oE0oCR15/s/rKPmXbUVjEtlfqtMAdps/" %}
+[Thunderz](http://127.0.0.1:5000/o/6fJ60JfYQyN0oE0oCR15/s/rKPmXbUVjEtlfqtMAdps/)
 {% endcontent-ref %}
 
 ### Social Media
 
-[Discord](https://dsc.bio/omurice) | [Twitter](https://twitter.com)&#x20;
+[Discord](https://dsc.bio/omurice) | [Twitter](https://twitter.com)

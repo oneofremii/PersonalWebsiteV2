@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Home | リン スチャリアク](README.md)
+* [Home](README.md)
 * [Friends](friends.md)
